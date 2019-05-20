@@ -1,0 +1,8 @@
+id        city        lon            lat          Category
+i1        Seattle    -122.3320708    47.6062095   Source
+i2        San_Diego  -117.1610838    32.715738    Source
+i3        Dallas     -96.7969879     32.7766642   Source
+i4        Memphis    -90.0489801     35.1495343   Source
+j1        New_York   -74.0059728     40.7127753   Demand
+j2        Chicago    -87.6297982     41.8781136   Demand
+j3        Topeka     -95.6751576     39.0473451   Demand
