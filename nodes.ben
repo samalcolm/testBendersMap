@@ -1,4 +1,4 @@
-id        city        lon            lat          Category
+id        city        lon            lat          Category 
 i1        Seattle    -122.3320708    47.6062095   Source
 i2        San_Diego  -117.1610838    32.715738    Source
 i3        Dallas     -96.7969879     32.7766642   Source
